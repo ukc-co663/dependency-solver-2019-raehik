@@ -1,2 +1,2 @@
-# depsolver-StartJava
-Scaffolding for Java projects
+# Dependency solver
+bo207 / Ben Orchard / raehik remix.
